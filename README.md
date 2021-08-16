@@ -1,4 +1,4 @@
-# *San Francisco Housing Analysis - (m06_challenge_01B):*<br><br>
+# *ETF Analyser - (m07_challenge_01):*<br><br>
 
 ## **Description:**<br>
 In recent years, finance has had an explosion in passive investing. Passive investing means that you invest in a basket of assets that’s called an exchange-traded fund (ETF). This way, you don’t spend time researching individual stocks or companies or take the risk of investing in a single stock. ETFs offer more diversification.
@@ -21,6 +21,7 @@ Analyze the ETF Portfolio.
 
 ### ***Part 2: Web Application***<br>
 Once all the analysis is completed, Jupyter notebook is deployed as a Web Application. The Voila Library is used to create the web component of the solution.
+For this section, web application screen shots are in the screenshots folder.
 <br>
 <br>
 ---
@@ -43,7 +44,7 @@ hvPlot provides a high-level plotting API built on HoloViews that provides a gen
 ## Usage
 
 In order to run the program, type the following at the terminal prompt:
-* ### python sr_san_francisco_housing.ipynb
+* ### python sr_etf_analyzer.ipynb
 
 ---
 
